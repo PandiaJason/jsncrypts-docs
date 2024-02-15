@@ -3,7 +3,7 @@
 **Notice:** To acess the content, Please download and setup MetaMask and Polygon Mumbai. 
 
 - 🚀 Developed a Smart Contract-based decentralized application for social media and newsletters.
-- 🌐 It is a decentralized content management system that supports verifiable ownership for contents (as NFTs).
+- 🌐 It is a decentralized content management system that supports transferable ownership for contents (as NFTs).
 - 📰 Created an authentic decentralized newsletter with censorship resistance, built using blockchain technology.
 
 ## What are JSNcrypts?
